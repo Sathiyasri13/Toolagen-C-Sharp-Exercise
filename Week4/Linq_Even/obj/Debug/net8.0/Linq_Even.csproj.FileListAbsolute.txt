@@ -1,0 +1,14 @@
+C:\Users\spcp1317\Linq_Even\bin\Debug\net8.0\Linq_Even.exe
+C:\Users\spcp1317\Linq_Even\bin\Debug\net8.0\Linq_Even.deps.json
+C:\Users\spcp1317\Linq_Even\bin\Debug\net8.0\Linq_Even.runtimeconfig.json
+C:\Users\spcp1317\Linq_Even\bin\Debug\net8.0\Linq_Even.dll
+C:\Users\spcp1317\Linq_Even\bin\Debug\net8.0\Linq_Even.pdb
+C:\Users\spcp1317\Linq_Even\obj\Debug\net8.0\Linq_Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spcp1317\Linq_Even\obj\Debug\net8.0\Linq_Even.AssemblyInfoInputs.cache
+C:\Users\spcp1317\Linq_Even\obj\Debug\net8.0\Linq_Even.AssemblyInfo.cs
+C:\Users\spcp1317\Linq_Even\obj\Debug\net8.0\Linq_Even.csproj.CoreCompileInputs.cache
+C:\Users\spcp1317\Linq_Even\obj\Debug\net8.0\Linq_Even.dll
+C:\Users\spcp1317\Linq_Even\obj\Debug\net8.0\refint\Linq_Even.dll
+C:\Users\spcp1317\Linq_Even\obj\Debug\net8.0\Linq_Even.pdb
+C:\Users\spcp1317\Linq_Even\obj\Debug\net8.0\Linq_Even.genruntimeconfig.cache
+C:\Users\spcp1317\Linq_Even\obj\Debug\net8.0\ref\Linq_Even.dll

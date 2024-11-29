@@ -1,0 +1,14 @@
+c:\Users\spcp1317\Swapping\bin\Debug\net8.0\Swapping.exe
+c:\Users\spcp1317\Swapping\bin\Debug\net8.0\Swapping.deps.json
+c:\Users\spcp1317\Swapping\bin\Debug\net8.0\Swapping.runtimeconfig.json
+c:\Users\spcp1317\Swapping\bin\Debug\net8.0\Swapping.dll
+c:\Users\spcp1317\Swapping\bin\Debug\net8.0\Swapping.pdb
+c:\Users\spcp1317\Swapping\obj\Debug\net8.0\Swapping.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\spcp1317\Swapping\obj\Debug\net8.0\Swapping.AssemblyInfoInputs.cache
+c:\Users\spcp1317\Swapping\obj\Debug\net8.0\Swapping.AssemblyInfo.cs
+c:\Users\spcp1317\Swapping\obj\Debug\net8.0\Swapping.csproj.CoreCompileInputs.cache
+c:\Users\spcp1317\Swapping\obj\Debug\net8.0\Swapping.dll
+c:\Users\spcp1317\Swapping\obj\Debug\net8.0\refint\Swapping.dll
+c:\Users\spcp1317\Swapping\obj\Debug\net8.0\Swapping.pdb
+c:\Users\spcp1317\Swapping\obj\Debug\net8.0\Swapping.genruntimeconfig.cache
+c:\Users\spcp1317\Swapping\obj\Debug\net8.0\ref\Swapping.dll
