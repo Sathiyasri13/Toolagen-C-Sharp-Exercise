@@ -1,0 +1,14 @@
+c:\Users\spcp1317\ExceptionEven\bin\Debug\net8.0\ExceptionEven.exe
+C:\Users\spcp1317\ExceptionEven\bin\Debug\net8.0\ExceptionEven.deps.json
+C:\Users\spcp1317\ExceptionEven\bin\Debug\net8.0\ExceptionEven.runtimeconfig.json
+c:\Users\spcp1317\ExceptionEven\bin\Debug\net8.0\ExceptionEven.dll
+c:\Users\spcp1317\ExceptionEven\bin\Debug\net8.0\ExceptionEven.pdb
+c:\Users\spcp1317\ExceptionEven\obj\Debug\net8.0\ExceptionEven.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\spcp1317\ExceptionEven\obj\Debug\net8.0\ExceptionEven.AssemblyInfoInputs.cache
+c:\Users\spcp1317\ExceptionEven\obj\Debug\net8.0\ExceptionEven.AssemblyInfo.cs
+c:\Users\spcp1317\ExceptionEven\obj\Debug\net8.0\ExceptionEven.csproj.CoreCompileInputs.cache
+c:\Users\spcp1317\ExceptionEven\obj\Debug\net8.0\ExceptionEven.dll
+c:\Users\spcp1317\ExceptionEven\obj\Debug\net8.0\refint\ExceptionEven.dll
+c:\Users\spcp1317\ExceptionEven\obj\Debug\net8.0\ExceptionEven.pdb
+C:\Users\spcp1317\ExceptionEven\obj\Debug\net8.0\ExceptionEven.genruntimeconfig.cache
+C:\Users\spcp1317\ExceptionEven\obj\Debug\net8.0\ref\ExceptionEven.dll
