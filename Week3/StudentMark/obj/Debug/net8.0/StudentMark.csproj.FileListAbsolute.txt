@@ -1,0 +1,14 @@
+c:\Users\spcp1317\StudentMark\bin\Debug\net8.0\StudentMark.exe
+c:\Users\spcp1317\StudentMark\bin\Debug\net8.0\StudentMark.deps.json
+c:\Users\spcp1317\StudentMark\bin\Debug\net8.0\StudentMark.runtimeconfig.json
+c:\Users\spcp1317\StudentMark\bin\Debug\net8.0\StudentMark.dll
+c:\Users\spcp1317\StudentMark\bin\Debug\net8.0\StudentMark.pdb
+c:\Users\spcp1317\StudentMark\obj\Debug\net8.0\StudentMark.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\spcp1317\StudentMark\obj\Debug\net8.0\StudentMark.AssemblyInfoInputs.cache
+c:\Users\spcp1317\StudentMark\obj\Debug\net8.0\StudentMark.AssemblyInfo.cs
+c:\Users\spcp1317\StudentMark\obj\Debug\net8.0\StudentMark.csproj.CoreCompileInputs.cache
+c:\Users\spcp1317\StudentMark\obj\Debug\net8.0\StudentMark.dll
+c:\Users\spcp1317\StudentMark\obj\Debug\net8.0\refint\StudentMark.dll
+c:\Users\spcp1317\StudentMark\obj\Debug\net8.0\StudentMark.pdb
+c:\Users\spcp1317\StudentMark\obj\Debug\net8.0\StudentMark.genruntimeconfig.cache
+c:\Users\spcp1317\StudentMark\obj\Debug\net8.0\ref\StudentMark.dll

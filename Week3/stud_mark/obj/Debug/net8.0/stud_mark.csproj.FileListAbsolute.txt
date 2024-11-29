@@ -1,0 +1,14 @@
+c:\Users\spcp1317\stud_mark\bin\Debug\net8.0\stud_mark.exe
+C:\Users\spcp1317\stud_mark\bin\Debug\net8.0\stud_mark.deps.json
+C:\Users\spcp1317\stud_mark\bin\Debug\net8.0\stud_mark.runtimeconfig.json
+c:\Users\spcp1317\stud_mark\bin\Debug\net8.0\stud_mark.dll
+c:\Users\spcp1317\stud_mark\bin\Debug\net8.0\stud_mark.pdb
+c:\Users\spcp1317\stud_mark\obj\Debug\net8.0\stud_mark.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\spcp1317\stud_mark\obj\Debug\net8.0\stud_mark.AssemblyInfoInputs.cache
+c:\Users\spcp1317\stud_mark\obj\Debug\net8.0\stud_mark.AssemblyInfo.cs
+c:\Users\spcp1317\stud_mark\obj\Debug\net8.0\stud_mark.csproj.CoreCompileInputs.cache
+c:\Users\spcp1317\stud_mark\obj\Debug\net8.0\stud_mark.dll
+c:\Users\spcp1317\stud_mark\obj\Debug\net8.0\refint\stud_mark.dll
+c:\Users\spcp1317\stud_mark\obj\Debug\net8.0\stud_mark.pdb
+C:\Users\spcp1317\stud_mark\obj\Debug\net8.0\stud_mark.genruntimeconfig.cache
+C:\Users\spcp1317\stud_mark\obj\Debug\net8.0\ref\stud_mark.dll
