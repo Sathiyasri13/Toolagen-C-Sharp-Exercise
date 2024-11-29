@@ -1,0 +1,14 @@
+c:\Users\spcp1317\AddNumbers\bin\Debug\net8.0\AddNumbers.exe
+C:\Users\spcp1317\AddNumbers\bin\Debug\net8.0\AddNumbers.deps.json
+C:\Users\spcp1317\AddNumbers\bin\Debug\net8.0\AddNumbers.runtimeconfig.json
+c:\Users\spcp1317\AddNumbers\bin\Debug\net8.0\AddNumbers.dll
+c:\Users\spcp1317\AddNumbers\bin\Debug\net8.0\AddNumbers.pdb
+c:\Users\spcp1317\AddNumbers\obj\Debug\net8.0\AddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\spcp1317\AddNumbers\obj\Debug\net8.0\AddNumbers.AssemblyInfoInputs.cache
+c:\Users\spcp1317\AddNumbers\obj\Debug\net8.0\AddNumbers.AssemblyInfo.cs
+c:\Users\spcp1317\AddNumbers\obj\Debug\net8.0\AddNumbers.csproj.CoreCompileInputs.cache
+c:\Users\spcp1317\AddNumbers\obj\Debug\net8.0\AddNumbers.dll
+c:\Users\spcp1317\AddNumbers\obj\Debug\net8.0\refint\AddNumbers.dll
+c:\Users\spcp1317\AddNumbers\obj\Debug\net8.0\AddNumbers.pdb
+C:\Users\spcp1317\AddNumbers\obj\Debug\net8.0\AddNumbers.genruntimeconfig.cache
+C:\Users\spcp1317\AddNumbers\obj\Debug\net8.0\ref\AddNumbers.dll
