@@ -1,0 +1,14 @@
+c:\Users\spcp1317\Oops\bin\Debug\net8.0\Oops.exe
+C:\Users\spcp1317\Oops\bin\Debug\net8.0\Oops.deps.json
+C:\Users\spcp1317\Oops\bin\Debug\net8.0\Oops.runtimeconfig.json
+c:\Users\spcp1317\Oops\bin\Debug\net8.0\Oops.dll
+c:\Users\spcp1317\Oops\bin\Debug\net8.0\Oops.pdb
+c:\Users\spcp1317\Oops\obj\Debug\net8.0\Oops.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\spcp1317\Oops\obj\Debug\net8.0\Oops.AssemblyInfoInputs.cache
+c:\Users\spcp1317\Oops\obj\Debug\net8.0\Oops.AssemblyInfo.cs
+c:\Users\spcp1317\Oops\obj\Debug\net8.0\Oops.csproj.CoreCompileInputs.cache
+c:\Users\spcp1317\Oops\obj\Debug\net8.0\Oops.dll
+c:\Users\spcp1317\Oops\obj\Debug\net8.0\refint\Oops.dll
+c:\Users\spcp1317\Oops\obj\Debug\net8.0\Oops.pdb
+C:\Users\spcp1317\Oops\obj\Debug\net8.0\Oops.genruntimeconfig.cache
+C:\Users\spcp1317\Oops\obj\Debug\net8.0\ref\Oops.dll
