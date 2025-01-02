@@ -5,6 +5,7 @@ class Program
     static void Main()
     {
         // Define a Predicate<int> delegate that checks if a number is positive
+        // Number 0 is neither positive nor negative
         Predicate<int> isPositive = number => number > 0;
 
         while (true)
